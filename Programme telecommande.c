@@ -1,8 +1,8 @@
 void loop(){ // debut de la fonction loop()
 
-	// --- ici instructions � ex�cuter par le programme principal --- 
+	// --- ici instructions à exécuter par le programme principal --- 
 
-	touche = clavier.getKey(); // lecture de la touche appuy�e
+	touche = clavier.getKey(); // lecture de la touche appuyée
 
 	if (touche != NO_KEY){ // si une touche a été frappée -- gestion de la touche appuyée 
 		
